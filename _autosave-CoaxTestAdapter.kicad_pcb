@@ -1306,6 +1306,44 @@
 	(dimension
 		(type orthogonal)
 		(layer "Dwgs.User")
+		(uuid "2ae29ba7-0f03-45e9-88e2-70ca7b8a1941")
+		(pts
+			(xy 166 113) (xy 151.5 116.5)
+		)
+		(height -19.5)
+		(orientation 1)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "3.5"
+			(at 145.35 114.75 90)
+			(layer "Dwgs.User")
+			(uuid "2ae29ba7-0f03-45e9-88e2-70ca7b8a1941")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Dwgs.User")
 		(uuid "2d1459ab-ad1f-4677-8bbd-d9b609bdb36a")
 		(pts
 			(xy 185 90.5) (xy 185 116.5)
@@ -1333,6 +1371,44 @@
 			(at 190.85 103.5 90)
 			(layer "Dwgs.User")
 			(uuid "2d1459ab-ad1f-4677-8bbd-d9b609bdb36a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Dwgs.User")
+		(uuid "4655da96-caaf-45c4-8a31-ba5a25d182b0")
+		(pts
+			(xy 180.5 94) (xy 185 90.5)
+		)
+		(height 8.5)
+		(orientation 1)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "3.5"
+			(at 187.85 92.25 90)
+			(layer "Dwgs.User")
+			(uuid "4655da96-caaf-45c4-8a31-ba5a25d182b0")
 			(effects
 				(font
 					(size 1 1)
@@ -1485,6 +1561,44 @@
 			(at 166 78.85 0)
 			(layer "Dwgs.User")
 			(uuid "d47b2f25-3b70-43ea-94cd-c2447097d6ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Dwgs.User")
+		(uuid "e29563e7-86be-466b-bf08-124d6a35c215")
+		(pts
+			(xy 166 94) (xy 151.5 90.5)
+		)
+		(height -22)
+		(orientation 1)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "3.5"
+			(at 142.85 92.25 90)
+			(layer "Dwgs.User")
+			(uuid "e29563e7-86be-466b-bf08-124d6a35c215")
 			(effects
 				(font
 					(size 1 1)
